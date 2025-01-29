@@ -1,0 +1,186 @@
+{
+  "Header": {
+    "title": "Your Vision, Our Innovation",
+    "paragraph": "We create scalable, secure, and high-performance solutions to help businesses thrive in the digital age."
+  },
+  "About": {
+    "paragraph": 
+
+    "At BRO TECH, we are passionate about creating cutting-edge technology solutions that drive growth and efficiency. Our mission is to empower businesses and individuals with robust software solutions, ensuring seamless digital experiences",
+    "Why": [
+      "On-Time Delivery & Support",
+      "User-Centric Approach",
+      "Commitment to Quality & Innovation",
+      "Expertise in Latest Technologies"
+    ],
+    "Why2": [
+      "High-Quality Standards",
+      "Timely Delivery",
+      "Seamless User Experience",
+      "Client-Centric Approach"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "E-commerce",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "InstaConnect",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "AppSwift",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "RideWave",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "EduLearn",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "TaskMaster",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "TravelBuddy",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "QuickPulse",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "MarketHub",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Web Development 🌐",
+      "text": "We build fast, responsive, and scalable websites using the latest technologies like React.js, Next.js, and MERN Stack to deliver seamless digital experiences.."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Mobile App Development 📱",
+      "text": "We create high-performance Android and iOS apps with smooth UI/UX, ensuring a user-friendly and engaging experience."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": " Full-Stack Development 💻",
+      "text": "From frontend to backend, we develop complete web applications using JavaScript, React.js, Node.js, Express.js, and MongoDB, ensuring end-to-end solutions."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Custom Software Development 🛠️",
+      "text": " We design and develop customized software solutions for businesses to enhance efficiency, productivity, and automation."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "UI/UX Design 🎨",
+      "text": "Our expert designers create visually appealing and intuitive user interfaces, ensuring a seamless user experience."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": " Maintenance & Support 🔧",
+      "text": "We offer ongoing support, updates, and bug fixes, ensuring smooth performance and security of your applications."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"BRO TECH transformed our business with their innovative solutions. The team’s professionalism and attention to detail are unmatched. We couldn't have asked for a better partner!\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Working with BRO TECH was a game-changer. Their technical expertise and commitment to delivering results have truly exceeded our expectations.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"The team at BRO TECH is exceptional. They listened to our needs, offered valuable insights, and delivered a top-notch solution. We're incredibly pleased with the outcome\"",
+      "name": "Krishra Parmar"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\" BRO TECH’s innovative approach and ability to solve complex challenges have been pivotal in helping us grow. We highly recommend their services\"",
+      "name": "Supriya Mehra"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"We’ve worked with several tech firms, but BRO TECH stands out for their professionalism, expertise, and ability to deliver high-quality results on time. Highly recommend\"",
+      "name": "Amit Sharma"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"BRO TECH has been a true game-changer for our business. Their team’s deep understanding of technology and ability to deliver exactly what we needed was remarkable. We look forward to working with them again!\"",
+      "name": "Priya Verma"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Shakti Verma",
+      "job": "Founder"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Rajwansh Bhati",
+      "job": "Co-Founder"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Harsh Kuvarvanshi",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Abhishek",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+   
+    "phone": "+91 6264115927 & +91 9522296547" ,
+    "email": "shaktiverma839@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Cutting-Edge Technology",
+      "text": "We use the latest MERN Stack, React.js, Node.js, Java, and more to build modern, high-performance applications."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Custom Software Solutions",
+      "text": "We develop tailor-made solutions to fit unique business needs, ensuring efficiency and seamless integration"
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Scalable and Flexible Architecture",
+      "text": "We build applications that grow with your business, ensuring long-term scalability and flexibility."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": " API Integration & Cloud Services",
+      "text": "We provide seamless integration with third-party APIs and cloud platforms like AWS, Firebase, and Google Cloud for enhanced functionality."
+    }
+  ]
+}
